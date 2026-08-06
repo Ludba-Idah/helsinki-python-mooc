@@ -1,3 +1,3 @@
-# helsinki-python-mooc
-These are my solutions, exercises, and custom projects from the University of Helsinki Python Course! (starting from part 4)
-I did these when i was 14!
+ 🐍 University of Helsinki - Python Programming MOOC 2026
+
+This repository contains my solutions, exercise code, and logic for the **University of Helsinki Python Programming MOOC**.
