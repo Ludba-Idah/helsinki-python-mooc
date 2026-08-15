@@ -14,5 +14,4 @@ Unlike standard video tutorials, this course focuses heavily on rigorous problem
 The project files are structured to track my progression through the course curriculum:
 
 *   **Fundamentals:** Variables, conditional statements, and basic input/output.
-*   **Control Flow:** Mastering `while` and `for` loops, lists, and debugging infinite logic loops.
-*   **Advanced Logic:** Functions, references, and complex data structure manipulations.
+*   **Control Flow:** Mastering `while` and `for` loops, lists, and debugging programmes.
