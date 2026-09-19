@@ -1,6 +1,6 @@
 # University of Helsinki: Python Programming MOOC
 
-**Status:** Completed Parts 1-5. Archived on 19/09/2026.
+**Status:** Completed Parts 1-5. Stopped on 19/09/2026.
 
 ## Overview
 This repository has my solutions and code exercises from the  **University of Helsinki Python Programming MOOC**. 
